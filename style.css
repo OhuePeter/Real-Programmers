@@ -5,7 +5,7 @@ html {
 	font-family: "Playfair Display", san-serif;
 	/*From Perfect Full Page Background Image by css tricks*/
 
-	background: url(images/class8.jfif) no-repeat center center fixed; 
+	background: url(class8.jfif) no-repeat center center fixed; 
 	/*background: url(images/ds.jfif) no-repeat center center fixed; */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
